@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/itPlay" android:title="@string/itemPlay" android:icon="@drawable/play"></item>
+    <item android:icon="@drawable/pause" android:title="@string/itemStop" android:id="@+id/itStop"></item>
+    <item android:id="@+id/itExit" android:title="Exit"></item>
+    
+</menu>
