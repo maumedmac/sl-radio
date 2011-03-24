@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sri Lanka Radio Live</string>
+    <string name="author">Manoj Prasanna Handapangoda</string>
+    <string name="company">Cipher Solutions (Pvt) Ltd</string>
+    <string name="channel_now_av">This radio channel not available now.. </string>
+    <string name="itemStop">Stop</string>
+    <string name="itemPlay">Play</string>
+    <string name="itemPause">Pause</string>
+</resources>
