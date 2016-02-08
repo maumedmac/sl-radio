@@ -1,0 +1,1 @@
+This is simple application developed android devices to listen live Sri Lankan radio channels.You can listen 10 more radio channels using this android package
